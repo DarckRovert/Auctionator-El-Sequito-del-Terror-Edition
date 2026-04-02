@@ -1,6 +1,6 @@
 
-local AuctionatorVersion = "1.0.0-Vanilla";
-local AuctionatorAuthor  = "Zirco; Vanilla adaptation by Nimeral";
+local AuctionatorVersion = "9.3.1 [God-Tier]";
+local AuctionatorAuthor  = "El Séquito del Terror";
 
 
 local AuctionatorLoaded = false;
