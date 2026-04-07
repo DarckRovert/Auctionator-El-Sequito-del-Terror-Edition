@@ -1,9 +1,9 @@
-# Auctionator — Efficient Trading (v9.4.0 [Omni-Tier]) ⚖️💰
+# Auctionator — Efficient Trading (v1.2.2 [Trade-Tier]) 💰⚖️💰
 
 > **The definitive lightweight auction manager for Turtle WoW.** Optimizado para el clan **El Séquito del Terror** con algoritmos de escaneo rápido y base de datos de precios compartida bajo la supervisión de **DarckRovert**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version](https://img.shields.io/badge) (https://ko-fi.com/darckrovert)
+[![Version](https://img.shields.io/badge/version-v1.2.2--Trade--Tier-blue)](./CHANGELOG.md)/darckrovert)
 
 ---
 

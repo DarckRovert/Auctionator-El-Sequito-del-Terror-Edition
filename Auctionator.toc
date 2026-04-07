@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cffffffffAuctionator |r|cff00ccff[Séquito del Terror]|r
-## Version: 9.4.0 [Omni-Tier]
+## Version: 1.2.2 [Trade-Tier]
 ## Notes: A lightweight addon designed to help manage auctions. Integrated within the Sequito ecosystem.
 ## Author: El Séquito del Terror (DarckRovert)
 ## SavedVariablesPerCharacter: AUCTIONATOR_ENABLE_ALT, AUCTIONATOR_OPEN_FIRST
