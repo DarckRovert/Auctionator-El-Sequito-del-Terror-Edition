@@ -1,6 +1,6 @@
-# Changelog — Auctionator Sequito Edition
+# Changelog - Auctionator [Séquito Edition]
 
-## [Sequito v1.0] - 2026-04-05
-- Migración al estándar God-Tier del clan.
-- Integración visual con el ecosistema de El Séquito.
-- Optimización de escaneo para Turtle WoW.
+## [9.4.0-Omni-Tier] - 2026-04-07
+### Establecido
+- **Documentación Corporativa Oficial:** Suite completa inyectada automatizadamente a través del ecosistema.
+- **Auditoría Estructural:** Limpieza de duplicados, corrección de dependencias y actualización de políticas operativas.
