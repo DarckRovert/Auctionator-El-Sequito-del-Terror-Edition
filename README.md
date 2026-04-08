@@ -33,12 +33,12 @@ Es una versión refinada del clásico gestor de subastas, eliminando el bloatwar
 
 ## 🏗️ Suite de Documentación (Wiki)
 
-Domina la economía de Azeroth en nuestra base de conocimientos:
+Domina la economía de Azeroth en nuestra base de conocimientos oficial:
 
-- 📐 **[Arquitectura Económica](./wiki/Architecture.md)**: Cómo gestionamos AUCTIONATOR_ENABLE_ALT.
-- 🛠️ **[Guía de API Trader](./wiki/API_Guide.md)**: Extracción de precios para otros AddOns.
-- ❓ **[FAQ del AH](./wiki/FAQ.md)**: ¿Por qué no se actualizan mis precios?
-- 📖 **[Manual del Mercader](./wiki/User_Manual.md)**: Guía de compra y venta estratégica.
+- 🏰 **[Arquitectura Económica](https://github.com/DarckRovert/Auctionator-El-Sequito-del-Terror-Edition/wiki/Arquitectura-(Extended))**: Cómo gestionamos AUCTIONATOR_ENABLE_ALT.
+- 🛠️ **[Guía de API Trader](https://github.com/DarckRovert/Auctionator-El-Sequito-del-Terror-Edition/wiki/Guía-de-API)**: Extracción de precios para otros AddOns.
+- ❓ **[FAQ del AH](https://github.com/DarckRovert/Auctionator-El-Sequito-del-Terror-Edition/wiki/FAQ-(Mercado))**: ¿Por qué no se actualizan mis precios?
+- 📖 **[Manual del Mercader](https://github.com/DarckRovert/Auctionator-El-Sequito-del-Terror-Edition/wiki/Manual-de-Usuario)**: Guía de compra y venta estratégica.
 
 ## 🚀 Despliegue Rápido (Trade-Flow)
 
